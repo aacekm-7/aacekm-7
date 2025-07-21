@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Eddy👋
 
 <!--
 **aacekm-7/aacekm-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
